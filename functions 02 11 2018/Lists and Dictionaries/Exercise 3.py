@@ -1,0 +1,12 @@
+["Bruce Lee",
+"Nathan Chen"
+"Coby Bryan",
+"Shawn White"
+"Tyrion Bryan",
+"Allison Chen",
+"Stan Lee",
+"Catelyn Chen"
+"Joy Chen",
+"Ned Chen",
+"Jonathan Lee",
+"Bob White"]
